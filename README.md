@@ -4,7 +4,7 @@
 
 This is a solution for a challenge on [Frontend Mentor](https://www.frontendmentor.io/).
 
-**Links:** [Live](https://skar5268.github.io/QR-code-component) | [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+**Links:** [Live](https://skar5268.github.io/QR-code-component) | [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) | [Solution](https://www.frontendmentor.io/solutions/qr-code-component-with-html5-sass-and-flexbox-kTyr9wKQNb)
 
 ## Table of contents
 
