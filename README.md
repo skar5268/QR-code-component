@@ -1,6 +1,6 @@
 # QR-code-component
 
-![](./screenshot.)png
+![](./screenshot.png)
 
 This is a solution for a challenge on [Frontend Mentor](https://www.frontendmentor.io/).
 
